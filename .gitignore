@@ -1,0 +1,20 @@
+# Python
+.DS_Store
+**/*.egg-info/
+**/__pycache__/
+**/.pytest_cache/
+**/*.pyc
+**/*.pb
+
+# Onshape-to-robot
+ros2/build/
+ros2/install/
+ros2/log/
+data/meshes/
+data/parts/
+data/scad/
+
+# Omniverse USD
+data/usd/Props/
+data/usd/.asset_hash
+data/usd/config.yaml
