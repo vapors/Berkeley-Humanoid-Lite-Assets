@@ -19,7 +19,7 @@ mjcf:
 	python postprocess.py --mode mjcf --name ${ROBOT}
 
 usd:
-	python ${ISAACLAB_HOME}/source/standalone/tools/convert_urdf.py ./data/urdf/${ROBOT}.urdf ./data/usd/${ROBOT}.usd --merge-joints --make-instanceable
+	python ${ISAACLAB_HOME}/scripts/tools/convert_urdf.py ./data/urdf/${ROBOT}.urdf ./data/usd/${ROBOT}.usd --merge-joints
 
 clean:
 	rm -rf ./data/mjcf/assets/
