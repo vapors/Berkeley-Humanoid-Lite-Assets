@@ -1,7 +1,8 @@
 {
-    "document_id": "8eacf058d85ce70fa4dc9355",
+    "document_id": "fc6443b1d89dcba950e85b60",
     "output_format": "mujoco",
     "assembly_name": "Assembly",
+    "configuration": "Configuration=Default",
     "robot_name": "berkeley-humanoid-lite",
     "output_filename": "berkeley_humanoid_lite",
     "ignore": {
