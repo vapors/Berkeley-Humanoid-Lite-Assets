@@ -1,4 +1,4 @@
-# Berkeley Humanoid Lite Assets
+# Highly Modified - Berkeley Humanoid Lite Assets
 
 This repository contains the assets files and tools necessary for working with the Berkeley Humanoid Lite model. It includes scripts for generating URDF files from Onshape and converting them to MJCF and USD formats to use in multiple simulators.
 
